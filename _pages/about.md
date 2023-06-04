@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi im Dylan, i'm an engineering student at UnilasalleAmiens, my passion lies in thecnology, everything that has to do with robotics and IOT.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Since my early days i have been ceative thanks to a enabling environement, wanting to develop this trait of mine more, i've pursued the Engineering line to acquire the skills need to 
+develop my own electronics, robots, and regular objects.
+
+I love being independent from the big companies that rule the world, and using my skills, i keep the same lifestyle (maybe even better) as the regular person.
+
+Using this website, i document every step of my journey to become a better "inventor" as i like to say it, even if i use things that are already invented, i give them my own twist.
+
