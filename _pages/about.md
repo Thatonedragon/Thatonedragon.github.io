@@ -11,4 +11,4 @@ develop my own electronics, robots, and regular objects.
 I love being independent from the big companies that rule the world, and using my skills, i keep the same lifestyle (maybe even better) as the regular person.
 
 Using this website, i document every step of my journey to become a better "inventor" as i like to say it, even if i use things that are already invented, i give them my own twist.
-
+And everything will be available to you too, as i set every project of mine on github (yes yes i know, thats a big company, but this is a secure way to share my work)
