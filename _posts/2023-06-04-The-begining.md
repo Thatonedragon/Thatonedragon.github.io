@@ -2,12 +2,12 @@
 title: The begininig
 last_modified_at: 2023-06-04T20:15:00-05:00
 categories: 
-    -Blog
+    - Blog
 Tags:
     -Miscialianous
 ---
 
-Welcome to my new webpage, I have a lot of projects that are fun or use full so be sure to take a look around the site, maybe you'll even find some easter eggs.
+Welcome to my new webpage, I have a lot of projects that are fun or useful so be sure to take a look around the site, maybe you'll even find some easter eggs.
 
 For my personal use, this post is going to have every element i can put in my blog in it.
 
