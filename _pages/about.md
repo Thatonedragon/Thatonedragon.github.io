@@ -5,8 +5,7 @@ title: "About"
 
 Hi, I'm Dylan, an engineering student at Unilasalle Amiens, my passion lies in technology, everything that has to do with robotics and IoT.
 
-Since my early days, I have been creative thanks to an enabling environment, wanting to develop this trait of mine more, I've pursued the Engineering line to acquire the skills need to 
-develop my own electronics, robots, and regular objects.
+Since my early days, I have been creative thanks to an enabling environment, wanting to develop this trait of mine more, I've pursued the Engineering line to acquire the skills need to develop my electronics, robots, and regular objects.
 
 I love being independent of the big companies that rule the world and using my skills, I keep the same lifestyle (maybe even better) as the regular person.
 
