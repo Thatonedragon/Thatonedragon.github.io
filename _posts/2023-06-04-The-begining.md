@@ -9,7 +9,7 @@ Tags:
 
 Welcome to my new webpage, I have a lot of projects that are fun or useful so be sure to take a look around the site, maybe you'll even find some easter eggs.
 
-For my personal use, this post is going to have every element i can put in my blog in it.
+For my personal use, this post is going to have every element I can put in my blog in it.
 
 Jekyll also offers powerful support for code snippets:
 
