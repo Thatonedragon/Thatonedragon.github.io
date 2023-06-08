@@ -31,4 +31,24 @@ This needed a solution.
 Before we had an electric line going over the standard fence, but the hooks broke off and thus the line was down. So we had to come up with a better solution!
 
 This time, we bought some bigger hooks, with a longer metal part, the problem is, how do we fix it to the metal pole? like before? nuts and bolts were welded to the small hooks?
-An idea that failed should not be reused, so this time we decided to weld the bigger hooks directly to the pole and leaving the nuts and bolts out
+An idea that failed should not be reused, so this time we decided to weld the bigger hooks directly to the pole and leaving the nuts and bolts out. A golden oppurtinity to learn some welding!
+
+
+Lets do this!
+
+First we assemble the tools! TOOLS..... ASSEMBLE!
+
+* the welder, for this project I used an electrode welder
+
+    It's what we have in the shop, we also have a mig welder but way to big to be carried out on the land
+* The electrodes
+* protective gear for the welder (gloves, protection cap, and long clothes)  
+* An angle grinder (why you may ask, i'm going to tell you later)
+* protective gear for the angle grinder (Working glasses, gloves, and earprotection)
+* a bottle of water (it was very hot)
+
+So now we have all thats needed, let's roll out an extention cord an start welding---- stop stop stop,
+you can't weld on rusty metal, rust is not conductive and can affect your welds!
+Take the grinder, and remove the old bolt if there is still one left, then clean the surface from rust, and make a little connection point for the ground cable!
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Are_you_an_engineer/Metal_poleclean.jpg)
+
