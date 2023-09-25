@@ -50,3 +50,7 @@ you can't weld on rusty metal, rust is not conductive and can affect your welds!
 Take the grinder, and remove the old bolt if there is still one left, then clean the surface from rust, and make a little connection point for the ground cable!
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Are_you_an_engineer/Metal_poleclean.jpg)
 
+By creating a current at a high voltage, we can create sparks that melt our metal. Mixing it with our alloy, in this cas the electrodes, creates a strong bond between
+the two objects, fusing them together, like on the next photo.
+![alt]({{ site.url }}{{ site.baseurl }}/assets\images\Are_you_an_engineer\FisrtWeld.jpg)
+
