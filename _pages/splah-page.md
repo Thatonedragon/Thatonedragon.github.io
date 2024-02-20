@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: **Loaf Of Tech**"
 excerpt: "Welcome to the page of Dylan Looij, A.K.A Loaf Of Tech, where the making happens"
 intro: 
-  - excerpt: 'They Say there is only 24 hours in a day, I say too, but I use none of them too sleep -Loaf Of tech `type="center"`'
+  - excerpt: 'They Say there is only 24 hours in a day, I say too, but I use none of them too sleep -Loaf Of tech'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
