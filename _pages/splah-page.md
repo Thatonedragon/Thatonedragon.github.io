@@ -1,19 +1,16 @@
 ---
-title: "Splash Page"
+title: "Home of Loaf Of Tech"
 layout: splash
 permalink: /splash-page/
 date: 2024-02-20T22:28:0-00:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+  overlay_image: /assets/images/splashpage/Bureau.jpg
+  caption: "Photo credit: **Loaf Of Tech**"
+excerpt: "Welcome to the page of Dylan Looij, A.K.A Loaf Of Tech, where the making happens"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'They Say there is only 24 hours in a day, I say too, but I use none of them too sleep -Loaf Of tech `type="center"`'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
