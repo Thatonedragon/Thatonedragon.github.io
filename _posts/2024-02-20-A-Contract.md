@@ -9,22 +9,23 @@ Tags :
 
 Since I was little, I've always been passionate about creating things and how things work. Fast forward to today, this passion became my hobby and domain of studies.
 
-By integrating Unilasalle amiens, I've been given access to a large base of knowlege, enableing me to continue discovering, and 
+By integrating Unilasalle amiens, I've been given access to a large base of knowlege, enabling me to continue discovering, and 
 going into the depths of what I already knew.
 
 
 ## Context
 
-When I joined the engineering course that Unilasalle proposed, a clear interest in digitial electronics became apparent. so I continued my autonomous research by doing small projects,
+When I joined the engineering course that Unilasalle proposed, a clear interest in digitial electronics became apparent. So I continued my autonomous research by doing small projects,
 I sometimes made them, sometimes they stayed theoretical, but they helped me understand most of the concepts behind electronics.
-As from 2022, I joined a robotics club, and quickly realized that there are people like me that are passsionate about the world of makers. which meant that I could finally share knowledge with people around me and learn even more from them.
-Not soon after I arrived, the then Co-Director Rémi Lacombe told me I was a good candidate for the next years council of the robotics club. So I did, together with Quentin Fache and Pierre-Alex Bianchi, we Brought the Club to the next level.
+
+As from 2022, I joined a robotics club, and quickly realised that there are people like me that are passsionate about the world of makers, which meant that I could finally share knowledge with people around me and learn even more from them.
+Not soon after I arrived, the then Co-Director Rémi Lacombe told me I was a good candidate for the next years council of the robotics club. So I did, together with Quentin Fache and Pierre-Alex Bianchi, we brought Unimakers to the next level.
 
 ## What seemed simple, was a hell of a challenge
 
-As the header says, it was not that simple, finances where all over the place, the club was not organized, and people went in and
-out without being member of the club. Change was needed.
-Presence on social media was nearly absent.
+As the header says, it was not that simple, finances where all over the place, the club was not 
+organized, presence on social media was nearly absent, and people went in and out without being member of the club. Change was needed.
+
 I took the role of technical director (previously Robotics director). I'm in charge of the physical and project part of the club.
 I also play a small role for the social media account for instagram. Quentin is in charge of finance and sponsoring.
 
