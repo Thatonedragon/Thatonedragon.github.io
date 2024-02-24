@@ -30,7 +30,7 @@ I took the role of technical director (previously Robotics director). I'm in cha
 I also play a small role for the social media account for instagram. Quentin is in charge of finance and sponsoring.
 
 ## The deal with the dev---- Unilasalle
-Very fast, I found myself overwelmed with a lots of thing that I didn't have time for in a 14 hour day , I started to compromise 
+Very fast, I found myself overwelmed with a lot of thing that I didn't have time for in a 14 hour day , I started to compromise 
 health and sleep to do everything possible on time, which usualy translated to going to bed a 2 o'clock in the morning and to wake 
 up again at 7, this on repeat! I won't do the math for you, but there was not a lot of sleep remaining, only cofee!
 At one point I even started working on things during lessons, at that point I had enough. It was time to change something.
