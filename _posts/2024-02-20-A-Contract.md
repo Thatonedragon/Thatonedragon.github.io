@@ -18,7 +18,7 @@ going into the depths of what I already knew.
 When I joined the engineering course that Unilasalle proposed, a clear interest in digitial electronics became apparent. So I continued my autonomous research by doing small projects,
 I sometimes made them, sometimes they stayed theoretical, but they helped me understand most of the concepts behind electronics.
 
-As from 2022, I joined a robotics club, and quickly realised that there are people like me that are passsionate about the world of makers, which meant that I could finally share knowledge with people around me and learn even more from them.
+As from 2022, I joined a robotics club, and quickly realised that there are people like me that are passionate about the world of makers, which meant that I could finally share knowledge with people around me and learn even more from them.
 Not soon after I arrived, the then Co-Director Rémi Lacombe told me I was a good candidate for the next years council of the robotics club. So I did, together with Quentin Fache and Pierre-Alex Bianchi, we brought Unimakers to the next level.
 
 ## What seemed simple, was a hell of a challenge
