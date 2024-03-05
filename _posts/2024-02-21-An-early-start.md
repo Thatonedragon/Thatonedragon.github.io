@@ -1,7 +1,6 @@
 ---
 title: An early Start
 categories: 
-    - Skill-learning
     - Study-Contract
 Tags :
     - projects
@@ -43,6 +42,6 @@ some other markdown
 ## Next time
 Next thing to do In the club is making a post for The next sponsor, Dagoma.
 
-Then I will do Some research because In the club we want to make a standard price for a type of service, and we'll encourage other Clubs to do this as well
+Then I will do some research because In the club we want to make a standard price for a type of service, and we'll encourage other Clubs to do this as well
 
-Stay Curious, and untill next Time!
+Stay Curious, and until next Time!
