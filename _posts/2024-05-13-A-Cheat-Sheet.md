@@ -8,9 +8,9 @@ Tags :
 
  # Automatation Cheat Sheet
 
-F0 : $Bo(p) = \frac{{1 - \exp(-\Delta \cdot p)}}{p}$
+F0 : $$Bo(p) = \frac{{1 - \exp(-\Delta \cdot p)}}{p}$$
 
-F1 : $z = \exp(\Delta \cdot p)$
+F1 : $$z = \exp(\Delta \cdot p)$$
 
 F2 : $F(z) = \sum_{k=0}^{\infty} f(k\Delta) z^{-k}$
 
@@ -36,3 +36,50 @@ F8:
 $|a0|<a2$
 
 $D(1)> 0$ et $D(-1)>0$
+
+
+# Gestion de production
+
+Coût de revient d’un produit “A” = prix des matières premières de “A” + coût de V.A de “A”
+
+Valeur ajoutée = temps total de fabrication d’un produit “A” × taux horaire objectif
+
+THO = Charges annuelles à couvrir par la VAD ÷ Nombre d'heures annuelles utiles à la production
+
+
+
+
+
+Coût total d’un stock = Coût de possession + Coût de lancement + Coût d’achat 
+
+CT = CP + CL + Ca
+
+
+Consommation annuelle Ca:
+
+Coût de possession CP :  (q/2) x a x t
+
+Coût de lancement annuel de commande CL : (N / q) x Cl avec N consommation a l'année
+
+Coute de lancement de commande intial Cl:
+Coût total CT du stock par an : CT = CP + CL + (a x N)
+
+
+qe = $ \sqrt{\frac{2\cdot N \cdot Cl}{a\cdot t}} $
+
+
+
+
+
+Stock d’alerte : Sa = [(N÷52)+Ss]×d
+
+
+TRS = T utile / T requis = Tm * Tp* Tq
+
+TRQ < 85%
+
+Tm = D0 = temps de foncitonnement/ temps requis
+
+Tp = temps net/ temps de fonctionement
+
+Tq = temps utile/ temps net
