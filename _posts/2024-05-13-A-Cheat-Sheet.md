@@ -65,7 +65,7 @@ Coute de lancement de commande intial Cl:
 Coût total CT du stock par an : CT = CP + CL + (a x N)
 
 
-qe = $ \sqrt{\frac{2\cdot N \cdot Cl}{a\cdot t}} $
+qe = $$ \sqrt{\frac{2\cdot N \cdot Cl}{a\cdot t}} $$
 
 
 
