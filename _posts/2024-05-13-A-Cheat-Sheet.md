@@ -33,7 +33,7 @@ F7: $$Fe(z) = (1-z^{-1}) \space \cdot  Z->(\frac{F(p)}{p})$$
 Critére de jury
 
 F8:
-$$|a0|<a2$$
+$$\left| a_0 \right| < a_2$$
 
 $$D(1)> 0$ et $D(-1)>0$$
 
