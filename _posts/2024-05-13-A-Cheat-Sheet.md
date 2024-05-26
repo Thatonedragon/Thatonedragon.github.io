@@ -26,7 +26,7 @@ F5 : $${a^k}\space \space Z -> \frac{z}{z-a}$$
 
 Theorème de la valeur Finale
 
-F6 : $$\lim_{{k \to \infty}} x(k) = \lim_{{z\to 1}}(Z-1) \cdot \epsilon(z)$$
+F6 : $$\lim_{{k \to \infty}} x(k) = \lim_{{z \to 1}} (Z-1) \cdot \epsilon(z)$$
 
 F7: $$Fe(z) = (1-z^{-1}) \space \cdot  Z->(\frac{F(p)}{p})$$
 
