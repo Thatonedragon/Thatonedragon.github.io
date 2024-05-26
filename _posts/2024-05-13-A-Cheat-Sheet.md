@@ -35,7 +35,7 @@ Critére de jury
 F8:
 $$\left| a_0 \right| < a_2$$
 
-$$D(1)> 0$ et $D(-1)>0$$
+$$D(1)> 0$$ et $$D(-1)>0$$
 
 
 # Gestion de production
