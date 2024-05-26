@@ -1,4 +1,5 @@
 ---
+layout : default
 title: Cheat Sheet
 categories: 
     - Skill-learning
