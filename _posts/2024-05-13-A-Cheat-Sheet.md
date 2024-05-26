@@ -6,10 +6,6 @@ categories:
 Tags :
     - courses
 ---
-
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
  # Automatation Cheat Sheet
 
 F0 : $$Bo(p) = \frac{{1 - \exp(-\Delta \cdot p)}}{p}$$
@@ -87,3 +83,7 @@ Tm = D0 = temps de foncitonnement/ temps requis
 Tp = temps net/ temps de fonctionement
 
 Tq = temps utile/ temps net
+
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
