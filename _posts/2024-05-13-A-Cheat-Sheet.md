@@ -1,5 +1,5 @@
 ---
-layout : post
+layout : posts
 title: Cheat Sheet
 categories: 
     - Skill-learning
