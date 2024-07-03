@@ -5,3 +5,31 @@ main:
     url: /posts/
   - title: "About"
     url: /about/
+
+
+docs:
+  - title: Me
+    children:
+      - title: "This"
+        url: /
+      - title: "Is"
+        url: /
+      - title: "A"
+        url: /
+      - title: "Custom"
+        url: /
+      - title: "Nav"
+        url: /
+
+  - title: You
+    children:
+      - title: "Don't"
+        url: /
+      - title: "Mind"
+        url: /
+      - title: "It"
+        url: /
+      - title: "Helps"
+        url: /
+      - title: "Me"
+        url: /
