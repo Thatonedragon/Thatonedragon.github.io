@@ -1,8 +1,16 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: false
+
 sidebar:
-  nav: "docs"
+  - title: "Details"
+    image: assets/images/bio-photo.jpg
+    image_alt: "image"
+    text: "Name: Dylan looij <br>Birthday: 31/05/2023 <br>Mail: looijdylan@gmail.com "
+  - title: Langues
+    text : "Français: courant <br> Anglais: C1 Cambridge <br> Néerlandais: Langue maternelle <br> Allemand: B1 kmk"
+  
 ---
 
 
