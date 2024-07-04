@@ -20,7 +20,6 @@ sidebar:
     text : "Linkedin:[/Dylanlooij](https://www.linkedin.com/in/dylan-looij-541579248)"
   
 ---
-
 ## Skills
 - Multilingual
 - Programming: Python, c/c++, Arduino, frontend Web
