@@ -29,8 +29,18 @@ feature_row:
   - image_path: assets/images/splashpage/ZeldaChest.jpg
     title: "Some Fun Copyright infringement"
     excerpt: "Graphing the Hyrule logo onto a Crate"
+feature_row2:
+  - image_path: assets/images/splashpage/PanneauxSolaires.jpg
+    alt: "A Roof filed with solar pannels"
+    title: "Solar pannel instalation"
+    excerpt: "Follow the process of the custom instalation I have at my family home"
+    url: "/skill-learning/Solar-Energy"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" %}
+
