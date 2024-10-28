@@ -8,9 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/splashpage/Bureau.jpg
   caption: "Photo credit: **Loaf Of Tech**"
-excerpt: "Welcome to the page of Dylan Looij, A.K.A Loaf Of Tech, where gadgets do not belong to the inspector"
+excerpt: "Welcome to the page of Dylan Looij, A.K.A Loaf Of Tech"
 intro: 
-  - excerpt: 'They say there is only 24 hours in a day, I say too, but I use none of them to sleep -Loaf Of tech'
+  - excerpt: 'The creativity of the mind is of use if you have the skills to build your imagination'
 feature_row:
   - image_path: assets/images/splashpage/CDR2023.jpg
     alt: "Coupe de France de robotique"
@@ -23,7 +23,7 @@ feature_row:
     alt: "Custom Hydraulic Bloc"
     title: "Combining engineering and farming"
     excerpt: "The process of a custom hydraulics extension"
-    url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    url: "./Hydraulics"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/splashpage/ZeldaChest.jpg
