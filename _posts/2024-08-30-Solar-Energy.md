@@ -63,4 +63,12 @@ Here are some photos of the process!
 
 ### Placing the solar panels, not fixing them to the roof
 We've decided, for legal reasons, and structural reasons, to not structuraly attach the solar panels to the roof, but weigh them down using big cement stones. (I will not go into detail, but keep in mind that the structure is movable :) )
+once the foots installed, we put on the solar pannels with their clamps, proceeding with the back wind panels after plugging the solar outlet into the intlet of the next panel.
+and lastly the side pannels.
+
+### Rebuilding the 20 year old elecictrical wiring
+I've wanted to have my hand to the electrical wiring on the house for a while now, this was my chance to see it, understand it, improve it (as my great uncle was "master electrician".... I wonder how the house didn't burned down)
+So together with my uncle, we pulled out the old instalation, salvaged what was resuasable, and but a whole new pannel, seperating the energyvore circuits from the low circuits.
+And putting all the energyvore systems on the one Phase of the solar pannels, why? because when the system will be working, It's going to be working in monophase, so the other two phases should have very little energy consumption, as we want to go to off grid living, but until we have a 3 phase inverter, we're stuck with this system.
+
 
